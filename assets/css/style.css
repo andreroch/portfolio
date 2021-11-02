@@ -26,7 +26,6 @@ a.nav-link {
     color: var(--texto-cinza);
 }
 
-/* Buttons */
 .btn {
     border-radius: 0;
     padding: 10px 30px;
@@ -54,12 +53,10 @@ a.nav-link {
     color: var(--fundo-site);
 }
 
-/* Margins */
 .my-10 {
     margin: 100px 0;
 }
 
-/* Imagem de perfil */
 .profile-image {
     border: 2px solid var(--borda-perfil);
     border-radius: 50%;
@@ -71,10 +68,33 @@ a.nav-link {
     border-radius: 50%;
 }
 
+<<<<<<< HEAD
 /* Sobre */
 
 .sessao-sobre {
    color: white;
    text-align: center;
 
+=======
+.sessao-sobre {
+    color: white;
+    text-align: center;
+}
+
+.circle-external {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 62px;
+    height: 62px;
+    background-color: #212121;
+    border-radius: 50%;
+}
+
+.circle-internal {
+    width: 12px;
+    height: 12px;
+    background-color: var(--primaria);
+    border-radius: 50%;
+>>>>>>> r3
 }
