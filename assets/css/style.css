@@ -67,18 +67,11 @@ a.nav-link {
     width: 100%;
     border-radius: 50%;
 }
-
-<<<<<<< HEAD
 /* Sobre */
 
 .sessao-sobre {
    color: white;
    text-align: center;
-
-=======
-.sessao-sobre {
-    color: white;
-    text-align: center;
 }
 
 .circle-external {
@@ -96,9 +89,6 @@ a.nav-link {
     height: 12px;
     background-color: var(--primaria);
     border-radius: 50%;
-<<<<<<< HEAD
->>>>>>> r3
-=======
 }
 
 .form-control {
@@ -126,5 +116,5 @@ a.nav-link {
 
 .text-gray-3 {
     color: #535353;
->>>>>>> r5
+
 }
