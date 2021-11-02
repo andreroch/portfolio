@@ -89,3 +89,30 @@ a.nav-link {
     background-color: var(--primaria);
     border-radius: 50%;
 }
+
+.form-control {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.form-control:focus {
+    background-color: transparent;
+    box-shadow: none;
+    border-color: var(--primaria);
+}
+
+.item-i-do {
+    background-color: #212121;
+    padding: 25px 45px;
+}
+
+.item-i-do:nth-child(2) {
+    border: 2px solid black;
+    border-bottom: 5px solid var(--primaria);
+}
+
+.text-gray-3 {
+    color: #535353;
+}
